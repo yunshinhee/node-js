@@ -24,5 +24,5 @@ node -v
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/9cd3b280-44b0-4a6e-b9cb-2ef20e0fefdd)
 
 
-🚩npm: 외부 라이브러리를 쉽게 설치하고 버전을 관리할 수 있게 한다. --> package.json을 만들게 된다.
-🚩npx: 라이브러리를 개별적으로 실행하고자 할 때 사용하는 것이다
+*🚩npm: 외부 라이브러리를 쉽게 설치하고 버전을 관리할 수 있게 한다. --> package.json을 만들게 된다.
+*🚩npx: 라이브러리를 개별적으로 실행하고자 할 때 사용하는 것이다
