@@ -20,4 +20,9 @@ node -v
 *node.js를 설치하면 npm이 자동으로 설치됨(npm -v 검색으로 확인 가능)
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/13f3b6b4-b2ca-464d-9aa8-1edcfd0d4a4d)
 
-*npx는 npm이 설치될 때 함께 설치가 된다.
+*npx는 npm이 설치될 때 함께 설치가 된다.(npx -v 검색으로 확인 가능)
+![image](https://github.com/yunshinhee/node-js/assets/145514638/9cd3b280-44b0-4a6e-b9cb-2ef20e0fefdd)
+
+
+🚩npm: 외부 라이브러리를 쉽게 설치하고 버전을 관리할 수 있게 한다. --> package.json을 만들게 된다.
+🚩npx: 라이브러리를 개별적으로 실행하고자 할 때 사용하는 것이다
