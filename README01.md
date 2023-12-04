@@ -15,3 +15,6 @@
 node -v
 ```
 을 입력하면 아래 버전이 나오면 설치 완료된 것이다.
+![image](https://github.com/yunshinhee/node-js/assets/145514638/489ca446-3162-4b78-9228-10c67d8b4591)
+
+*node.js를 설치하면 npm이 자동으로 설치됨
