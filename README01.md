@@ -50,3 +50,7 @@ npm start
 #SPA:Single Page Application
 -페이지는 하나인데 여러개인 것 처럼 눈속임을 한다. 페이지가 여러개인 것 처럼 보이지만 사실은 하나!
 -페이지를 매번 새로 가져올 필요가 없음, 웹사이트를 모바일처럼 사용할 수 있음.
+
+# react 확장프로그램(html에서 설치)
+![image](https://github.com/yunshinhee/node-js/assets/145514638/43c6454a-251f-4e07-afed-744e5078ccf2)
+
