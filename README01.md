@@ -56,4 +56,8 @@ npm start
 - react 코드 정렬
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/74cc3353-527a-40d9-a2eb-39c9fdb56912)
 
+# 4.formet save설정하기
+![image](https://github.com/yunshinhee/node-js/assets/145514638/1ed72823-7a33-455f-a859-4fae24ff7d71)
+
+
 
