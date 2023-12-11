@@ -21,4 +21,5 @@
 ![image](https://github.com/manbock/node.js/assets/145514177/771b08a7-a110-4ce3-8cbf-80aeb0e091be)
 
 # 기본 다시해보기
-![image](https://github.com/yunshinhee/node-js/assets/145514638/745dc3ce-90dd-4b5d-a617-f85e135fd5f7)
+![image](https://github.com/yunshinhee/node-js/assets/145514638/396326a0-5c0e-4f4f-8534-05b7ab9789b7)
+
