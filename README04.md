@@ -6,3 +6,10 @@ const[num, setNum]=useState(0)
 num을 변하게 하는 함수 => setNum => 함수를 이용하여 num을 변경한다
 useState(0)의 0은 num의 초기값
 ```
+
+# 부분적으로 값 받기
+![image](https://github.com/yunshinhee/node-js/assets/145514638/8c0e2aef-dc87-4c37-b0ef-bec678439d66)
+![image](https://github.com/yunshinhee/node-js/assets/145514638/b90db208-e4a3-4478-b6c5-4720e16cc45e)
+
+
+
