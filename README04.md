@@ -42,7 +42,9 @@ const Profile = ({img,name,title,isNew}) => {
 };
 
 ```
-//폴더 src2 참조하기 
+# 폴더 src2 참조
+```
+
 import { useState } from "react";
 import "./App.css";
 import Profile from "./components/Profile";
@@ -76,7 +78,6 @@ function App() {
 }
 
 export default App;
-```
 
 export default Profile;
 ```
