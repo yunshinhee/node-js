@@ -41,6 +41,8 @@ const Profile = ({img,name,title,isNew}) => {
   );
 };
 
+export default App;
+
 ```
 # 폴더 src2 참조
 ```
@@ -77,7 +79,6 @@ function App() {
   );
 }
 
-export default App;
 
 export default Profile;
 ```
