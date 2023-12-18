@@ -3,7 +3,10 @@
 # 공식 사이트 주소 -- https://reactrouter.com/en/main
 
 # 1)설치하기 -- npm install react-router-dom
-react에서 router는 다음페이지로 넘기는 것
+react에서 router는 다음페이지로 넘기는 것이다
+Router Components -> BrowserRouter -> BrowserRouter는 react 전체를 싸주어야한다.
+![image](https://github.com/yunshinhee/node-js/assets/145514638/fbb5bcca-2fca-4f97-9ec4-e23aa0af1cd0)
+
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/d26fc166-4cda-45fc-b330-84cac40bec06)
 
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/e506b8e5-5d9d-4774-9435-b2ff9d0ca6dd)
