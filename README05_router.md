@@ -21,4 +21,6 @@ Router Components -> BrowserRouter -> BrowserRouter는 react 전체를 싸주어
 # 🚩버튼을 클릭해서 페이지로 갈때(함수안에서 사용하는 방법)
 # Navigate
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/20a91e69-b539-4246-9197-bec379ac94fc)
+![image](https://github.com/yunshinhee/node-js/assets/145514638/a1f85312-8286-4cce-b5aa-5f0c30337956)
+
 
