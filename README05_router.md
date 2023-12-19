@@ -1,3 +1,4 @@
+# 폴더 src3 참조하기 
 # react-router-dom 설치하기 => 페이지를 나누는 역할
 
 # 공식 사이트 주소 -- https://reactrouter.com/en/main
@@ -18,3 +19,6 @@ Router Components -> BrowserRouter -> BrowserRouter는 react 전체를 싸주어
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/8804e051-3dc6-4047-a789-6b342edbaf48)
 
 # 🚩버튼을 클릭해서 페이지로 갈때(함수안에서 사용하는 방법)
+# Navigate
+![image](https://github.com/yunshinhee/node-js/assets/145514638/20a91e69-b539-4246-9197-bec379ac94fc)
+
