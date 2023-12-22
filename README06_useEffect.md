@@ -14,6 +14,8 @@
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/1e0ae9e2-1106-4690-ab31-c17874d7f7be)
 
 # 이전값 prev
+setNum((이전값)=>이전값 +1)
+
 ```
 import { useState } from "react";
 import "./App.css";
@@ -38,7 +40,7 @@ function App() {
 
          //prev는 이전값을 가지고 있음 
          // setNum((prev)=>{return rev + 1}) //한단계 전의 값 
-         // ⬇
+         //    ⬇
           setNum((prev)=>prev + 1) //1
          // setNum((prev)=>prev + 1)//2
          // setNum((prev)=>prev + 1)//3
