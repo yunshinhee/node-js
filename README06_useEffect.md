@@ -12,3 +12,45 @@
 
 # useEffect() 가 종료되는 시점에 데이타가 변경된다.
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/1e0ae9e2-1106-4690-ab31-c17874d7f7be)
+
+# 이전값 prev
+```
+import { useState } from "react";
+import "./App.css";
+
+function App() {
+  //let num=0;
+  let [num, setNum] = useState(0);
+
+
+  return (
+    <div className="counter">
+      <span className="number">{num}</span>
+      <button className="button" onClick={() => {
+         //아래 코드 세줄에서는 값의 변화가 없다 
+         //상태값은 함수가 종료후 다시 함수가 실행될 때 반영되기 때문이다.
+         //num은 모두 0이다.
+
+         // setNum(num + 1) 
+         // setNum(num + 1) 
+         // setNum(num + 1) 
+
+
+         //prev는 이전값을 가지고 있음 
+         // setNum((prev)=>{return rev + 1}) //한단계 전의 값 
+         // ⬇
+          setNum((prev)=>prev + 1) //1
+         // setNum((prev)=>prev + 1)//2
+         // setNum((prev)=>prev + 1)//3
+        
+        }}>1씩증가</button>
+
+        <form action="#">
+          <input type="text" />
+        </form>
+    </div>
+  );
+}
+
+export default App;
+```
