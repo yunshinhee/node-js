@@ -14,8 +14,10 @@ npm install --save @fortawesome/react-fontawesome
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/fc0db716-da71-4aae-8ab6-0897d64d1490)
 
 - 마음에드는 icon 찾아서 react 주소 복사하기 (global/dynamic/individual중에 아무거나 사용) (기존에 쓰던 5,6버전은 상관x)
-![image](https://github.com/yunshinhee/node-js/assets/145514638/343761cb-c090-4d5d-b79d-44a3b2a056cf)
-- 돌아가기 눌러서 사용법 연결하기 
+![image](https://github.com/yunshinhee/node-js/assets/145514638/50d3743f-d497-4b02-9c5b-59f4cd6336d5)
+
+- 돌아가기 눌러서 사용법 연결하기
+![image](https://github.com/yunshinhee/node-js/assets/145514638/227b6519-11b8-4010-82f2-a0fb31a0a788)
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/9f91c3b9-28c6-4f0a-8b76-1e7e44b9ac46)
 ```
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
