@@ -23,6 +23,7 @@ npm install --save @fortawesome/react-fontawesome
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { fas } from '@fortawesome/free-solid-svg-icons'
 ```
+-import 복사하고 {} 수정, solid-regular 맞춰서 수정 
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/6f389d74-4a4a-4d9c-af8e-a80e53fae6b9)
 
 -regular라서 regular npm을 또 연결해줘야함
