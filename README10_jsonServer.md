@@ -13,11 +13,13 @@ npm install -g json-server
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/ea791b1a-f27b-499f-8d0e-a9d98f09d13d)
 
 2️⃣ 확장명이 json 파일을 만든다(반드시 root자리에 만든다)
-![image](https://github.com/yunshinhee/node-js/assets/145514638/28781895-c8a0-483e-bb1f-a91f84924b48)
+![image](https://github.com/yunshinhee/node-js/assets/145514638/a17155e5-39d8-48c6-b6d8-fbec7314679f)
+
 
 json서버 실행 (기본적으로 3000번에서 시작하는데 react가 3000번을 사용하고 있기 때문에 다른 폰트 번호를 알려줘야한다.
-![image](https://github.com/yunshinhee/node-js/assets/145514638/4f29fb22-57fa-4e16-ac44-44f4cccc2a9e)
+![image](https://github.com/yunshinhee/node-js/assets/145514638/d43e4669-1b75-42ec-a070-7dbddeb28f02)
+
 
 ```
-json-server --watch db.json
+$ json-server --watch db.json --port 3004
 ```
