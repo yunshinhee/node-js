@@ -18,11 +18,13 @@ npm install -g json-server
 
 3️⃣json서버 실행 (기본적으로 3000번에서 시작하는데 react가 3000번을 사용하고 있기 때문에 다른 폰트 번호를 알려줘야한다.
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/424cb17c-3060-4f53-82ae-c216bb63a0bd)
+
+$ 제외하고 복사하기 
 ```
 json-server --watch db.json --port 3004
 ```
 
-4️⃣cmd 새창 만들기 
+4️⃣cmd 새창 만들어서 붙여넣기 
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/eebdc23b-c0da-4b57-bed3-61a077a54d1e)
 
 ⭐혹시안되면
