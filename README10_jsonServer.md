@@ -24,7 +24,7 @@ $ 제외하고 복사하기
 json-server --watch db.json --port 3004
 ```
 
-4️⃣cmd 새창 만들어서 붙여넣기 
+4️⃣cmd 새창 만들어서 terminal창에 붙여넣기
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/eebdc23b-c0da-4b57-bed3-61a077a54d1e)
 
 ⭐혹시안되면
