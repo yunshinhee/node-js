@@ -21,5 +21,10 @@ json서버 실행 (기본적으로 3000번에서 시작하는데 react가 3000�
 
 
 ```
-$ json-server --watch db.json --port 3004
+json-server --watch db.json --port 3004
+```
+
+⭐혹시안되면
+```
+npx json-server --watch db.json --port 3004
 ```
