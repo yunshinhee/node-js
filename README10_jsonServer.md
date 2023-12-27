@@ -16,23 +16,20 @@ npm install -g json-server
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/a17155e5-39d8-48c6-b6d8-fbec7314679f)
 
 
-json서버 실행 (기본적으로 3000번에서 시작하는데 react가 3000번을 사용하고 있기 때문에 다른 폰트 번호를 알려줘야한다.
-![image](https://github.com/yunshinhee/node-js/assets/145514638/d43e4669-1b75-42ec-a070-7dbddeb28f02)
-
-cmd 새창 만들기 
-![image](https://github.com/yunshinhee/node-js/assets/145514638/eebdc23b-c0da-4b57-bed3-61a077a54d1e)
-
+3️⃣json서버 실행 (기본적으로 3000번에서 시작하는데 react가 3000번을 사용하고 있기 때문에 다른 폰트 번호를 알려줘야한다.
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/424cb17c-3060-4f53-82ae-c216bb63a0bd)
-
 ```
 json-server --watch db.json --port 3004
 ```
+
+4️⃣cmd 새창 만들기 
+![image](https://github.com/yunshinhee/node-js/assets/145514638/eebdc23b-c0da-4b57-bed3-61a077a54d1e)
 
 ⭐혹시안되면
 ```
 npx json-server --watch db.json --port 3004
 ```
-주소창 검색시 json파일이 보여야한다 
+5️⃣주소창 검색시 json파일이 보여야한다 
 http://localhost:3004/products
 ![image](https://github.com/yunshinhee/node-js/assets/145514638/d633e25f-74d6-4a8e-bb26-b0afc8b7a2dd)
 
