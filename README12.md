@@ -12,3 +12,5 @@ http://localhost:3000/product/1
 
 # ulr 주소에서 파라미터는 제일 뒤에 있는 1이라는 숫자이다. id값이 들어와 있다.
 # 파라미터값을 읽어와야 할 때 useParams hook이다.
+
+
