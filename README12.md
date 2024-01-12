@@ -1,4 +1,3 @@
-![image](https://github.com/yunshinhee/node-js/assets/145514638/ca3009d6-21e3-4e97-a873-116b36bf596d)
 
 ![react shopping](https://github.com/gogoringhye/read/assets/145514996/c7aa4ae6-edab-46ee-8e22-bfc61e5136c2) 
 ##### Navigate 사용법 -- 어떤 페이지로 강제 이동(리다이렉트)
